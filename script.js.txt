@@ -1,0 +1,3 @@
+document.querySelector("button").addEventListener("click", () => {
+  alert("Hello! Your website works!");
+});
